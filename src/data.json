@@ -1,0 +1,452 @@
+[
+  {
+    "kind": "youtube#activity",
+    "etag": "aoPoHB2dcc25opWxzDtn_ZtOF-s",
+    "id": "MTUxNjE2NTE1MjE3MTYxNjUxNTIxNzAwMDE3Mg",
+    "snippet": {
+      "publishedAt": "2021-03-23T16:00:17+00:00",
+      "channelId": "UC_x5XG1OV2P6uZZ5FSM9Ttw",
+      "title": "Using scenes in Actions Builder (AoG Pro Tips)",
+      "description": "In this episode of Actions on Google Pro Tips, Developer Advocate Mandy Chan will show you how to replace Dialogflow’s context with scenes Actions Builder. \n\nCheck out the documentation → http://goo.gle/df-migration-overview \n\nCheck out more AoG Pro Tips → https://goo.gle/aogprotips \nSubscribe to Google Developers → https://goo.gle/developers \n\n#GoogleAssistant #ActionsBuilder #AoGProTips",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/PRGuCOlcRNo/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/PRGuCOlcRNo/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/PRGuCOlcRNo/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        },
+        "standard": {
+          "url": "https://i.ytimg.com/vi/PRGuCOlcRNo/sddefault.jpg",
+          "width": 640,
+          "height": 480
+        },
+        "maxres": {
+          "url": "https://i.ytimg.com/vi/PRGuCOlcRNo/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720
+        }
+      },
+      "channelTitle": "Google Developers",
+      "type": "upload"
+    },
+    "contentDetails": {
+      "upload": {
+        "videoId": "PRGuCOlcRNo"
+      }
+    }
+  },
+  {
+    "kind": "youtube#activity",
+    "etag": "f9vQ5-zSjwxqF-mqCnFOXcEhez4",
+    "id": "MTUxNjE2MTAxMjMzMTYxNjEwMTIzMzAwMDU4NQ",
+    "snippet": {
+      "publishedAt": "2021-03-18T21:00:33+00:00",
+      "channelId": "UC_x5XG1OV2P6uZZ5FSM9Ttw",
+      "title": "Jetpack Tiles library for Wear OS, Google Play update, ML Kit now GA, and more!",
+      "description": "TL;DR 239 | The Google Developer News Show\n \n0:00 - Boosting Developer Success on Google Play → http://goo.gle/3s2EE6P  \n0:34 - Create custom tiles with wearOS → http://goo.gle/3bVVvTo  \n1:01 - Policy changes and certification requirement updates for Smart Home Actions  → http://goo.gle/3vEdIg3  \n1:23 - ML Kit is now in GA & Introducing Selfie Segmentation → http://goo.gle/2P7b5lY  \n1:40 - Introducing Cloud Code Secret Manager Integration → http://goo.gle/2OK39Hy  \n2:08 - Please remember to like, subscribe, and share!\n\nHere to bring you the latest developer news from across Google is Developer Advocate Meghan Mehta. Tune in every week for a new episode, and let us know what you think of the latest announcements in the comments below! 😃\n\nFollow Google Developers on Instagram → https://goo.gle/googledevs             \n\nWatch more #DevShow → https://goo.gle/GDevShow               \nSubscribe to Google Developers → https://goo.gle/developers \n\n#Google #Developers",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/p7VXJb8ZwOQ/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/p7VXJb8ZwOQ/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/p7VXJb8ZwOQ/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        },
+        "standard": {
+          "url": "https://i.ytimg.com/vi/p7VXJb8ZwOQ/sddefault.jpg",
+          "width": 640,
+          "height": 480
+        },
+        "maxres": {
+          "url": "https://i.ytimg.com/vi/p7VXJb8ZwOQ/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720
+        }
+      },
+      "channelTitle": "Google Developers",
+      "type": "upload"
+    },
+    "contentDetails": {
+      "upload": {
+        "videoId": "p7VXJb8ZwOQ"
+      }
+    }
+  },
+  {
+    "kind": "youtube#activity",
+    "etag": "LVVK5sKOnquxrfvu5SM08fUbXNY",
+    "id": "MTUxNjE1OTEwNzU3MTYxNTkxMDc1NzAwMDk3Ng",
+    "snippet": {
+      "publishedAt": "2021-03-16T16:05:57+00:00",
+      "channelId": "UC_x5XG1OV2P6uZZ5FSM9Ttw",
+      "title": "Extend your Android app with Google Assistant using App Actions (AoG Pro Tips)",
+      "description": "Welcome back to Actions on Google Pro Tips with Developer Advocate Mandy Chan. In this episode, Mandy will provide tips on how you can extend your Android application with Google Assistant using App Actions. \n\nCheck out our documentation → http://goo.gle/app-actions\nCheck out more AoG Pro Tips → https://goo.gle/aogprotips  \n\nCatch videos on App Actions → http://goo.gle/3n66Zq8 \nSubscribe to Google Developers → https://goo.gle/developers \n\n#GoogleAssistant #AppActions #AoGProTips",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/5P32Gw5wzw0/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/5P32Gw5wzw0/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/5P32Gw5wzw0/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        },
+        "standard": {
+          "url": "https://i.ytimg.com/vi/5P32Gw5wzw0/sddefault.jpg",
+          "width": 640,
+          "height": 480
+        },
+        "maxres": {
+          "url": "https://i.ytimg.com/vi/5P32Gw5wzw0/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720
+        }
+      },
+      "channelTitle": "Google Developers",
+      "type": "upload"
+    },
+    "contentDetails": {
+      "upload": {
+        "videoId": "5P32Gw5wzw0"
+      }
+    }
+  },
+  {
+    "kind": "youtube#activity",
+    "etag": "gtnOijaQvXfA6XANxTWzyD_DPG0",
+    "id": "MTUxNjE1NTAwNDQ4MTYxNTUwMDQ0ODAwMDAyMg",
+    "snippet": {
+      "publishedAt": "2021-03-11T22:07:28+00:00",
+      "channelId": "UC_x5XG1OV2P6uZZ5FSM9Ttw",
+      "title": "Flutter 2, Android Auto in Jetpack, Google Cloud Next ‘21, and much more!",
+      "description": "TL;DR 238 | The Google Developer News Show\n \n0:00 - Android Auto Apps Powered by Jetpack → http://goo.gle/3bD86dQ  \n0:27 - New metrics and benchmarks in Google Play Console → http://goo.gle/3rEd13Z  \n0:53 - Announcing Flutter 2 → http://goo.gle/3qENS87  \n1:15 - Announcing Dart 2.12 → http://goo.gle/38yCJPX  \n1:40 - Google Cloud Born-Digital Summit → http://goo.gle/3qEQ6UE  \n1:54 - Google Cloud Next '21: October 12-14, 2021 → http://goo.gle/38ubZjo  \n2:11 - New Google Cloud firewall features → http://goo.gle/3bDjp5R  \n2:28 - Apache Spark Structured Streaming connector for Pub/Sub Lite → http://goo.gle/38wrxDl  \n2:55 - Speeding up Chrome's release cycle → http://goo.gle/2PPSQ4V  \n3:13 - Please remember to like, subscribe, and share!\n\nHere to bring you the latest developer news from across Google is Developer Advocate Dan Galpin. Tune in every week for a new episode, and let us know what you think of the latest announcements in the comments below! 😃\n\nFollow Google Developers on Instagram → https://goo.gle/googledevs             \n\nWatch more #DevShow → https://goo.gle/GDevShow               \nSubscribe to Google Developers → https://goo.gle/developers \n\n#Google #Developers",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/0RRDk1TFk-k/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/0RRDk1TFk-k/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/0RRDk1TFk-k/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        },
+        "standard": {
+          "url": "https://i.ytimg.com/vi/0RRDk1TFk-k/sddefault.jpg",
+          "width": 640,
+          "height": 480
+        },
+        "maxres": {
+          "url": "https://i.ytimg.com/vi/0RRDk1TFk-k/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720
+        }
+      },
+      "channelTitle": "Google Developers",
+      "type": "upload"
+    },
+    "contentDetails": {
+      "upload": {
+        "videoId": "0RRDk1TFk-k"
+      }
+    }
+  },
+  {
+    "kind": "youtube#activity",
+    "etag": "YqbH45CDIQ7KVJR6K81m3bybpkc",
+    "id": "MTUxNjE1NDgzMTk0MTYxNTQ4MzE5NDAwMDcxMQ",
+    "snippet": {
+      "publishedAt": "2021-03-11T17:19:54+00:00",
+      "channelId": "UC_x5XG1OV2P6uZZ5FSM9Ttw",
+      "title": "Smart Home policy",
+      "description": "In this episode, we cover the features and documentation required for your Smart Home Action in order to pass certification and launch. \n\nSmart Home Github → https://goo.gle/2XbkU2S \nSmart Home discovery features guide → http://goo.gle/2Ogj2FI \nSmart Home Actions Policy → http://goo.gle/3bEJYI5 \nLaunching Smart Home Actions → http://goo.gle/2vUSLTY \n\nSubtitles in various languages are available. Click on the Settings icon in the bottom right corner of the video, and select Subtitles/CC from the menu.\n\nWatch more Google Smart Home Developers → https://goo.gle/3cRAbvw \nSubscribe to Google Developers → https://goo.gle/developers\n\n#SmartHome #Developers",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/B92Nv0OcXew/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/B92Nv0OcXew/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/B92Nv0OcXew/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        },
+        "standard": {
+          "url": "https://i.ytimg.com/vi/B92Nv0OcXew/sddefault.jpg",
+          "width": 640,
+          "height": 480
+        },
+        "maxres": {
+          "url": "https://i.ytimg.com/vi/B92Nv0OcXew/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720
+        }
+      },
+      "channelTitle": "Google Developers",
+      "type": "upload"
+    },
+    "contentDetails": {
+      "upload": {
+        "videoId": "B92Nv0OcXew"
+      }
+    }
+  },
+  {
+    "kind": "youtube#activity",
+    "etag": "m1j2lUaermkNWj-2oKm_ICRhwMk",
+    "id": "MTUxNjE1MjI2MDAwMTYxNTIyNjAwMDAwMDA5Mg",
+    "snippet": {
+      "publishedAt": "2021-03-08T17:53:20+00:00",
+      "channelId": "UC_x5XG1OV2P6uZZ5FSM9Ttw",
+      "title": "#MyDomain - International Women’s Day",
+      "description": "In honor of International Women's Day, Google Registry invited female entrepreneurs, founders, and industry leaders to share their best advice for navigating and thriving within the tech industry, as women.\n\nCatch more #MyDomain​​​ videos here → https://goo.gle/MyDomain\nSubscribe → https://goo.gle/developers",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/a5x70ZzYw8c/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/a5x70ZzYw8c/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/a5x70ZzYw8c/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        },
+        "standard": {
+          "url": "https://i.ytimg.com/vi/a5x70ZzYw8c/sddefault.jpg",
+          "width": 640,
+          "height": 480
+        },
+        "maxres": {
+          "url": "https://i.ytimg.com/vi/a5x70ZzYw8c/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720
+        }
+      },
+      "channelTitle": "Google Developers",
+      "type": "upload"
+    },
+    "contentDetails": {
+      "upload": {
+        "videoId": "a5x70ZzYw8c"
+      }
+    }
+  },
+  {
+    "kind": "youtube#activity",
+    "etag": "rKwfXAr_pOBqYrwQMr5CnXkrDaQ",
+    "id": "MTUxNjE1MjI1OTc4MTYxNTIyNTk3ODAwMDMxMA",
+    "snippet": {
+      "publishedAt": "2021-03-08T17:52:58+00:00",
+      "channelId": "UC_x5XG1OV2P6uZZ5FSM9Ttw",
+      "title": "#MyDomain - workers.dev",
+      "description": "Rita Kozlov is the product manager for the Workers product at Cloudflare, a serverless platform that helps developers build fast, secure, and scalable applications. In this #MyDomain video, Rita shares why Cloudflare chose the .dev domain and offers a tip on why it’s smart to share your product as early as possible.\n\nWebsite → http://goo.gle/3e9KCih \n\nCatch more #MyDomain​​​ videos here → https://goo.gle/MyDomain\nSubscribe → https://goo.gle/developers",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/Vh_V1chHctk/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/Vh_V1chHctk/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/Vh_V1chHctk/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        },
+        "standard": {
+          "url": "https://i.ytimg.com/vi/Vh_V1chHctk/sddefault.jpg",
+          "width": 640,
+          "height": 480
+        },
+        "maxres": {
+          "url": "https://i.ytimg.com/vi/Vh_V1chHctk/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720
+        }
+      },
+      "channelTitle": "Google Developers",
+      "type": "upload"
+    },
+    "contentDetails": {
+      "upload": {
+        "videoId": "Vh_V1chHctk"
+      }
+    }
+  },
+  {
+    "kind": "youtube#activity",
+    "etag": "xcIP_cVOq_V7PE-IbYzetLb6zFE",
+    "id": "MTUxNjE1MjI1OTU2MTYxNTIyNTk1NjAwMDc0Nw",
+    "snippet": {
+      "publishedAt": "2021-03-08T17:52:36+00:00",
+      "channelId": "UC_x5XG1OV2P6uZZ5FSM9Ttw",
+      "title": "#MyDomain - snoop.app",
+      "description": "Alice Truswell is head of commercial at Snoop — a money-saving, money-management app.. In this #MyDomain video, learn story behind the Snoop name and Alice’s tips on how to get your customers coming back for more.\n\nWebsite → http://goo.gle/2MNNEgZ\n\nCatch more #MyDomain​​​ videos here → https://goo.gle/MyDomain\nSubscribe → https://goo.gle/developers",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/1Jseq5aN8GI/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/1Jseq5aN8GI/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/1Jseq5aN8GI/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        },
+        "standard": {
+          "url": "https://i.ytimg.com/vi/1Jseq5aN8GI/sddefault.jpg",
+          "width": 640,
+          "height": 480
+        },
+        "maxres": {
+          "url": "https://i.ytimg.com/vi/1Jseq5aN8GI/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720
+        }
+      },
+      "channelTitle": "Google Developers",
+      "type": "upload"
+    },
+    "contentDetails": {
+      "upload": {
+        "videoId": "1Jseq5aN8GI"
+      }
+    }
+  },
+  {
+    "kind": "youtube#activity",
+    "etag": "aerf_LCv2tqESCGQL59vZ1bPNk8",
+    "id": "MTUxNjE1MjI1OTMwMTYxNTIyNTkzMDAwMDQxNA",
+    "snippet": {
+      "publishedAt": "2021-03-08T17:52:10+00:00",
+      "channelId": "UC_x5XG1OV2P6uZZ5FSM9Ttw",
+      "title": "#MyDomain - minsar.app",
+      "description": "Soraya Jaber, founder of Minsar, explains how their  no-code AR-VR publishing platform is empowering all creatives to stand out from the crowd.. Watch this #MyDomain video to learn more about how augmented reality can help you take your story-telling to the next level.\n\nWebsite → http://goo.gle/3rkpmtQ\n\nCatch more #MyDomain​​​ videos here → https://goo.gle/MyDomain\nSubscribe → https://goo.gle/developers",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/Xok6LZzIqKQ/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/Xok6LZzIqKQ/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/Xok6LZzIqKQ/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        },
+        "standard": {
+          "url": "https://i.ytimg.com/vi/Xok6LZzIqKQ/sddefault.jpg",
+          "width": 640,
+          "height": 480
+        },
+        "maxres": {
+          "url": "https://i.ytimg.com/vi/Xok6LZzIqKQ/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720
+        }
+      },
+      "channelTitle": "Google Developers",
+      "type": "upload"
+    },
+    "contentDetails": {
+      "upload": {
+        "videoId": "Xok6LZzIqKQ"
+      }
+    }
+  },
+  {
+    "kind": "youtube#activity",
+    "etag": "2xHOS9tecSpWdliO7gWkZI2g0J0",
+    "id": "MTUxNjE1MjI1OTEwMTYxNTIyNTkxMDAwMDQ5Mw",
+    "snippet": {
+      "publishedAt": "2021-03-08T17:51:50+00:00",
+      "channelId": "UC_x5XG1OV2P6uZZ5FSM9Ttw",
+      "title": "#MyDomain - jemi.app",
+      "description": "Annie Hwang is co-founder of Jemi — a company for creators and public figures to interact with their audience and make money by selling one-off services and generating recurring revenue.. In this #MyDomain video, learn how Jemi chose their domain name and why having a tight feedback loop is the best way to understand what users want..\n\nWebsite → http://goo.gle/3bheasD \n\nCatch more #MyDomain​​​ videos here → https://goo.gle/MyDomain\nSubscribe → https://goo.gle/developers",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/uiFUtIjleyw/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/uiFUtIjleyw/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/uiFUtIjleyw/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        },
+        "standard": {
+          "url": "https://i.ytimg.com/vi/uiFUtIjleyw/sddefault.jpg",
+          "width": 640,
+          "height": 480
+        },
+        "maxres": {
+          "url": "https://i.ytimg.com/vi/uiFUtIjleyw/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720
+        }
+      },
+      "channelTitle": "Google Developers",
+      "type": "upload"
+    },
+    "contentDetails": {
+      "upload": {
+        "videoId": "uiFUtIjleyw"
+      }
+    }
+  }
+]
